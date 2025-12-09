@@ -1,17 +1,4 @@
-# University-of-Piraeus-Dept-of-Banking-and-Finance-Courses
+# University of Piraeus Dept of Banking and Finance Courses
 
-This repository contains information and material for the course "Introduction to Machine Learning". 
+This repository contains information and material for the courses conducted for the Quantitative Finance branch of Finance Club.
 
-# Main topics of the course:
-i) What is Learning?
-
-ii) Introduction to Regression.
-
-iii) introduction to Classification.
-
-iv) A biref view of widespread Machine Learning Algorithms.
-
-v) An applied Regression approach to Exchange Rate Forecasting.
-
-# For material dm in LinkedIn: 
-www.linkedin.com/in/iakovoschristoszarkadis
